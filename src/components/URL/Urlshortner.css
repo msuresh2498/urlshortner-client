@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+.new-url-heading {
+    font-size: 25px;
+    font-family: 'Ysabeau SC', sans-serif;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    margin-right: 5px;
+}
+
+.new-url-section {
+    background-color: rgb(244, 215, 153);
+    justify-content: center;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.newurl {
+    background-color: white;
+    width: 60%;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 17px;
+    align-items: center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+}

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@700&display=swap');
+
+.signup-section {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+}
+
+.signup-form {
+    display: grid;
+    gap: 50px;
+    width: 400px;
+    padding: 30px;
+    padding-top: 80px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.signup-container {
+    display: grid;
+    width: 400px;
+    padding: 40px;
+    padding-top: 0;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://img.freepik.com/free-photo/nice-landscape-with-boat_1048-4711.jpg?w=1380&t=st=1690783962~exp=1690784562~hmac=220fcdfd9ddd6a4c58ed4f2c15a1217cc6b55f8dad2b9832a91297b59bd4deb5');
+    border-radius: 10px;
+}
+
+.textfield {
+    width: 400px;
+    background-color: white;
+    color: black;
+    height: 38px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.login-heading {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 30px;
+    color: white;
+    font-variant: small-caps;
+    padding: 10px;
+    margin: 0;
+}
+
+.auth-btn {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 22px;
+    font-variant: small-caps;
+    background-color: #fcbf49;
+    color: black;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.auth-link {
+    text-decoration: none;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 20px;
+    color: blue;
+}
